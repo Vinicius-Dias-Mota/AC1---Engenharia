@@ -1,2 +1,2 @@
-# AC1---Engenharia
-Repositório criado para a AC1 da matéria de Engenharia de Requisitos
+#Engenharia de Requisitos
+Repositório criado para guardar ACs da matéria de Engenharia de Requisitos
