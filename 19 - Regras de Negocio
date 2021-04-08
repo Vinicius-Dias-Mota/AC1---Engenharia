@@ -1,0 +1,15 @@
+RN001 - Para o cliente receber o serviço é necessário que ele tenha agendado um horário. x(1)
+
+RN002 - A recepção só avisará que há um cliente para se atendido mediante a apresentação do cliente e de seu comprovante de agendamento. x(2)
+
+RN003 - O barbeiro só deve solicitar que o cliente compareça para realizar o serviço após a sinalização da recepção. x(3)
+
+RN004 - O barbeiro só iniciará o atendimento se o cliente se apresentar para recebê-lo. x(4)
+
+RN005 - O cliente só poderá solicitar ajustes após receber o aviso de término do serviço. x(5)
+
+RN006 -O barbeiro só deve sinalizar o término do serviço após a aprovação do cliente mediante o aviso de término do procedimento. x(6)
+
+RN007 - Cliente só poderá solicitar o valor a pagar após o fechamento do serviço. x(7)
+
+RN008 - Cliente só deve realizar o pagamento após ser informado do valor total a pagar. x(8)
